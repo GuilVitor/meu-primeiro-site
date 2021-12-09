@@ -1,0 +1,396 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: cadetblue;
+    width: 100%;
+    
+}
+
+.css img{
+    float: right;
+    background-color: darksalmon;
+    width: 50%;
+} 
+
+.java img{
+    float: left;
+    width: 50%;
+   background-color: lightslategray;
+ 
+}
+.texto{
+    background-color:indianred;
+    width: 50%;
+    height: 300px;
+    float: left;
+   
+}
+.texto h1{
+    margin: 3%;
+    transform: translateX(3%);
+    
+}
+.texto h1 b{
+   margin: 20%;
+   width: 50%;
+   padding: 2%;
+   transform: translateX(3%);
+}
+.texto h3 b{
+    padding: 2%;
+    width: 50%;
+    float:left;
+    transform: translateX(3%);
+    margin: 5%;
+}
+.texto img{
+    width: 30%;
+    transform: translateX(-120px);
+    background-color:indianred;
+    height: auto;
+    float: left;
+}
+
+.imagen img{
+    width: 25%;
+    float: right;
+    height: 300px;
+    transform: translateX(-0px);
+    background-color: plum;
+
+}
+
+.nova img{
+    width: 25%;
+    float: right;
+    height: 300px;
+    transform: translateX(-250px);
+    
+    
+
+}
+
+.documento h1{
+    width: 50%;
+    margin: 3%;
+    float: left;
+    transform: translateX(3%);
+    
+}
+.documento h2{
+    margin: 2%;
+    width: 50%;
+    float: left;
+    transform: translateX(3%);
+}
+.documento h3{
+    margin: 2%;
+    width: 50%;
+    float: left;
+    transform: translateX(3%);
+}
+.documento img{
+    float: none;
+    width: 40%;
+    height: 640px;
+    transform: translateX(10%);
+}
+.documento2 {
+    width: 100%;
+    background-color: coral;
+    height: 400px;
+    float: left;
+    margin: 0%;
+}
+.documento2 h3{
+    width: 50%;
+    float: right;
+    margin: 0%;
+    transform: translateX(-5%);
+}
+.documento2 h1{
+    width: 50%;
+    float: right;
+    margin: 3%;
+}
+.documento2 h2{
+    width: 50%;
+    float: right;
+    margin: 3%;
+}
+.documento2 img{
+    width: 40%;
+    float: none;
+    transform: translateX(50px);
+}
+
+.documento3 h1{ 
+    width: 50%;
+    margin: 1%;
+    float: left;
+    transform: translateX(3%);
+}
+.documento3 h2{ 
+    width: 50%;
+    margin: 1%;
+    float: left;
+    transform: translateX(3%);
+}
+.documento3 h3{ 
+    width: 50%;
+    margin: 1%;
+    float: left;
+    transform: translateX(3%);
+}
+.documento3 img{
+    width: 400px;
+    height: 320px;
+    float: none;
+    transform: translateX(20%);
+}
+.mercado{
+    background-color: darksalmon;
+    height: 1300px;
+}
+.mercado h1{
+    float: none;
+    width: 50%;
+    padding: 1%;
+    transform: translateX(3%);
+}    
+
+.mercado h4 {
+    margin: 3%;
+    width: 90%;
+}
+.mercado h3{ 
+    margin: 3%;
+}
+.mercado img{
+    float: right;
+}
+.salario h1{
+   padding: 4%;
+   width: 90%;
+   margin: 0%;
+   transform: translateX(0%);
+   float: none;
+}
+.salario h2{
+    float: none;
+    width: 90%;
+    margin: 1%;
+    transform: translateX(3%);
+
+}
+.salario h3{
+    width: 90%;
+    float: none;
+    margin: 1%;
+    transform: translateX(3%);
+}
+.salario{
+    width: 100%;
+    height: 410px;
+    float: none;
+
+}
+.salario2{
+    background-color: royalblue;
+    height: 400px;
+    width: 50%;
+    float: right;
+  
+}
+.salario2 h1{
+    margin: 5%;
+    width: 40%;
+}
+.salario2 h2{
+    float: right;
+    width: 40%;
+    background-color: royalblue;
+    height: 400px;
+}
+.salario2 h3{
+    width: 40%;
+    height: 400px;
+    margin: -3%;
+    transform: translateX(20%);
+}
+.salario3 h1{
+    float: none;
+    margin: 3%;
+}
+.salario3{
+    background-color: rgb(243, 219, 6);
+    height: 400px;
+}
+.salario3 h3{
+    margin: 3%;
+}
+
+.salario3 h2{
+    margin: 3%;
+}    
+.ultimo{
+    height: 332px;
+    width: 40%;
+    background-color: rgb(199, 173, 144);
+    margin: 0%;
+    transform: translateX(0px);
+    padding: 5%;
+  
+}
+.ultimo{
+    float: left;
+    width: 35%;
+    height: 377px;
+}
+.ultimo h3{
+    float: left;
+    transform: translateX(-30px);
+}
+.ultimo h1{
+   transform: translateX(-30px);
+}
+.ultimo2 h1{
+    float: right;
+    width: 40%;
+    padding: 0%;
+    transform: translateX(-30%);
+
+}
+.ultimo2{
+    height: 320px;
+}
+.ultimo2 h3{
+    transform: translateX(3%);
+    float: none;
+    margin: 3%;
+    padding: 9%;
+}
+.ultimo3 {
+    float: right;
+    height: 550px;
+    background-color: rgb(223, 101, 71);
+    width: 55%;
+}
+.ultimo3 h1{
+    margin: 7%;
+}
+.ultimo3 h3{
+    transform: translateX(0px);
+    padding: 5%;
+}
+.ultimo4{
+    height: 430px;
+    background-color: rgb(11, 182, 145);
+}
+.ultimo4 h3{
+    margin: 1%;
+    padding: 0%;
+}
+.ultimo4 h1{
+    margin: 3%;
+    padding: 5%;
+   
+}
+.ultimo4 h2{
+    float: right;
+   transform: translateX(-20px);
+   color: rgb(0, 0, 0);
+}
+.opcao{
+    height: 600px;
+    background-color: rgb(7, 199, 247);
+}
+.devs{
+    height: 513px;
+    background-color:brown;
+    width: 30%;
+    float: left;
+
+}
+.devs h2{
+    background-color:brown;
+    width: 90%;
+    height: 40px;
+    float: left;
+    margin: 3%;
+    color:rgba(0, 0, 0, 0.959) ;
+ 
+}
+.devs h3{
+    width: 50%;
+    height: 150px;
+    float: right;
+    background-color: rgb(229, 230, 228);
+    margin: 6%;
+    color: rgba(0, 0, 0, 0.959);
+  
+}
+
+.devs h4{
+    width: 90%;
+    height: 220px;
+    float: left;
+    background-color: rgb(253, 228, 1);
+    margin: 3%;
+    color: rgb(0, 0, 0);
+}
+.cadastro{
+    background-color:rgb(6, 134, 173);
+    width: 40%;
+    height: 440px;
+    float: right;
+}
+.cadastro h3{
+    background-color: rgb(61, 250, 4);
+    width: 95%;
+    transform: translateX(5%);
+    height: 50%;
+    margin: 0%;
+
+}
+.cadastro h4{
+    background-color: rgb(255, 0, 191);
+    float: right;
+    height: 40%;
+    width: 95%;
+    
+}
+.escolas{
+    height: 522px;
+    width: 60%;
+    background-color:rgb(6, 134, 173);
+}    
+.escolas h3{
+    width: 25%;
+    height: 173px;
+    background-color: rgb(250, 166, 166);
+    float: right;
+}
+.escolas h4{
+    width: 23%;
+    height: 260px;
+    background-color: rgb(3, 247, 145);
+    float: left;
+    margin: 0%;
+}
+.escolas h2{
+    width: 20%;
+    height: 188px;
+    background-color: brown;
+    float: right;
+
+}
+.escolas h1{
+    width: 28%;
+    height: 149px;
+    background-color: rgb(252, 123, 2);
+    float: left;
+    margin: 1%;
+
+}
